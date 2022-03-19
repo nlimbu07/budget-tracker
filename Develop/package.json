@@ -24,5 +24,8 @@
     "morgan": "^1.9.1"
   },
   "keywords": [],
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "webpack-dev-server": "^4.7.4"
+  }
 }
