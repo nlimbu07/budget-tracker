@@ -1,6 +1,7 @@
 {
   "name": "Budget Tracker",
   "short_name": "Budget Tracker",
+  "description": "An app that allows you to handles users' financial information.",
   "icons": [
     {
       "src": "./icons/icon-192x192.png",
