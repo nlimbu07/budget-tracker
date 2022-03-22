@@ -4,7 +4,7 @@
 The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online.
 
 ### Application Screenshot
-![screenshot](./Develop/public/image/Budget-Tracker.png)
+![screenshot](./public/image/Budget-Tracker.png)
 
 ## Table of Content
 - [Description](#description)
